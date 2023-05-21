@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#725a89;
+  background-color:#272626;
 }
 
 /* Global */
@@ -28,13 +28,13 @@ ul{
 
 .dark{
   padding:15px;
-  background:#5d3ca3;
+  background:#000000;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
 }
 h3{
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 /* Header **/
@@ -185,8 +185,8 @@ ul#services li{
 footer{
   padding:20px;
   margin-top:20px;
-  color:#ffffff;
-  background-color:rgb(255, 0, 0);
+  color:#ff0000;
+  background-color:rgb(0, 0, 0);
   text-align: center;
 }
 
