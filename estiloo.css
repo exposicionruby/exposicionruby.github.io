@@ -88,7 +88,7 @@ header .highlight, header .current a{
 }
 
 header a:hover{
-  color:rgb(174, 0, 255);
+  color:rgb(255, 255, 255);
   font-weight:bold;
 }
 
@@ -117,8 +117,8 @@ header a:hover{
 /* Newsletter */
 #newsletter{
   padding:15px;
-  color:#ffffff;
-  background:rgb(71, 40, 109);
+  color:#ff0000;
+  background:rgb(0, 0, 0);
 }
 
 #newsletter h1{
@@ -186,7 +186,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:rgb(71, 40, 109);
+  background-color:rgb(255, 0, 0);
   text-align: center;
 }
 
